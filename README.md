@@ -6,7 +6,7 @@
 - 🗣️ &nbsp; Speak 🇧🇷 🇺🇸 🇪🇸
 - 👨 &nbsp; He/Him
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/celsofujii) [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](<celsokf@gmail.com>)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/celsofujii) [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:celsokf@gmail.com)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=celsogithub&show_icons=true)
 
