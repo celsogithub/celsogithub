@@ -1,7 +1,6 @@
 # Hello everyone 👋, my name is Celso
 
 - 👨🏻‍💻 &nbsp; Android and Flutter Developer
-- 🏢 &nbsp; Working at **Youse Seguros**
 - 💻 &nbsp; Developing in `Java`, `Kotlin` and `Dart`
 - 🗣️ &nbsp; Speak 🇧🇷 🇺🇸 🇪🇸
 - 👨 &nbsp; He/Him
